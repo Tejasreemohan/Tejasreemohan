@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tejasreemohan
 - 👀 I’m interested in coding and learning 
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me through my mail id
 
